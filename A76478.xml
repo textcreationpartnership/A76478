@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French king's dream, which he had in his coach going to Marly : together with its explication / by the Sieur Van Beuninghen, late ambassadour from the States General here in England. ; Licens'd November 22. 1689. J.F.</title>
+            <author>Beuningen, Koenraad van, 1622-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76478</idno>
+            <idno type="STC">Wing B2089</idno>
+            <idno type="STC">ESTC R170519</idno>
+            <idno type="EEBO-CITATION">45504296</idno>
+            <idno type="OCLC">ocm 45504296</idno>
+            <idno type="VID">171602</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171602)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2578:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French king's dream, which he had in his coach going to Marly : together with its explication / by the Sieur Van Beuninghen, late ambassadour from the States General here in England. ; Licens'd November 22. 1689. J.F.</title>
+                  <author>Beuningen, Koenraad van, 1622-1693.</author>
+               </titleStmt>
+               <extent>[2], 3-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.B. and are to be sold by Richard Baldwin, in the Old Baily,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M DC LXXXIX [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>English and French in double columns.</note>
+                  <note>Imperfect: pages are stained, with print show-through.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Allegorical interpretations --  Early works to 1800.</term>
+               <term>Religion and state --  England --  Early works to 1800.</term>
+               <term>Dream interpretation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171602:1" rendition="simple:additions"/>
+            <p>THE French King's DREAM, WHICH He had in His COACH Going to MARLY; Together with its EXPLICATION.</p>
+            <p>By the Sieur <hi>Van Beuninghen,</hi> late Ambaſſadour from the States General here in <hi>England.</hi>
+            </p>
+            <p>LICENS'D <hi>November</hi> 22. 1689. <hi>J. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. B.</hi> and are to be ſold by <hi>Richard Baldwin,</hi> in the <hi>Old Baily,</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171602:2"/>
+            <pb n="3" facs="tcp:171602:2"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <p>AMong others, who have entertained <g ref="char:V">Ʋ</g>s with their <hi>Reveries</hi> upon a late Dream of the <hi>French</hi> Kings, <hi>Monſieur van Beuninghen</hi> has been very lately pleas'd to publiſh at the <hi>Hague,</hi> his performances upon the ſame Subject both in <hi>French</hi> and <hi>Dutch.</hi> To gratifie the cu<g ref="char:EOLhyphen"/>rious of our Nation, they are alſo now put into <hi>Engliſh,</hi> and the rather, ſeeing He is a Man ſo eminent thro' the World, on the account of his ſeveral Negotiations and long Miniſtry of Publick Affairs, and more eſpecially at the Court of <hi>Great Britain,</hi> where he was Ambaſſador for many Years: Tho' poſſibly this States-mans Friends will be ſorry to find he has ſo far out-liv'd himſelf, That from Secrets he is come to Revelations.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="eng" type="version">
+            <pb facs="tcp:171602:3"/>
+            <pb n="5" facs="tcp:171602:3"/>
+            <head>An Interpretation Of The DREAM WHICH The <hi>French</hi> KING had in His Coach, going to <hi>Marly.</hi>
+            </head>
+            <p>
+               <hi>PARIS, November</hi> the <hi>11th.</hi> The KING being in his Coach at <hi>Marly,</hi> Dreamt He ſaw the Heavens on a Flame; and that a very thich Smoak iſſued out of the Earth, of which was formed a very Numerous Army of Men like to Black-Smiths.</p>
+            <p>And that the Perſon who Com<g ref="char:EOLhyphen"/>manded them in chief was mounted upon a Horſe half gray, half green, and that He was clad in a Coat half Gold, half Iron, wearing a Breaſt-plate of Lead, and Braſs Boots, and having a Wooden-Sword, He fell a Crying, <hi>Now muſt Men Fight, for the hour is come that they who will not Fight, muſt Periſh.</hi>
+            </p>
+            <p>That then the KING heard two lamentable Screams, and that
+<pb n="6" facs="tcp:171602:4"/>
+He afterwards perceived that the Earth trembled, and that all that Multitude of Smiths was ſwal<g ref="char:EOLhyphen"/>lowed up.</p>
+            <p>That in a little time after there appeared a fair Foreſt full of Stags, and other Animals for Chace, and that He call'd out to the Hunters who were ſurround<g ref="char:EOLhyphen"/>ing it, <hi>Kill, Kill, for the Game is good.</hi>
+            </p>
+            <p>Whereupon he awak'd, and told His Dream to the whole Court, and added, that He would give Twenty Thouſand Golden <hi>Louiſes</hi> to know its Interpretation, and then became very Penſive.</p>
+            <p>If this Article of the Gazettier be true, as it is likely: it firſt ſeems to me very remarkable, that the <hi>French</hi> King (who may be look'd upon as the <hi>Nebuchadonoſor</hi> of our Time in <hi>Chriſtendom</hi>) has had a Dream, or rather a Viſion in Dreaming, which He has taken ſo much to heart, as to have declared He would pay ſo dear for its Interpretation: And that the Great <hi>Aſſyrian</hi> Monarch had the ſame fondneſs, but with ſo much the more Paſſion, as that He had loſt the remembrance of his Viſion, and that He ſtood in need of a new Manifeſtation, which to know, could only come from God; whereas that to ſatisfie His
+<pb facs="tcp:171602:4"/>
+Majeſty, there needs no more than a Man who underſtands the Inter<g ref="char:EOLhyphen"/>pretation of the Prophecies to which His Viſion does relate.</p>
+            <p>I believe that the Great and Good God has endued me with this Grace, and that I ſhall not ſwerve from the Truth in affirming, That the King's ſaid Dream is come from Heaven, to let His Majeſty know, that the laſt hour is come of the Accompliſhment of the Pro<g ref="char:EOLhyphen"/>phecies, grounded upon the Appari<g ref="char:EOLhyphen"/>tion of <hi>Nebuchadonoſor's</hi> Image or Statue, and of the ſecond coming of our Saviour the Lord <hi>Jeſus Chriſt,</hi> and of that Stone cut out without hand, which will break to pieces and aboliſh all other Kingdoms, by Eſtabliſhing this of God, and of the Saints here upon Earth, will ſuddenly become ma<g ref="char:EOLhyphen"/>nifeſt, to give the final Concluſion to all the Prophecies.</p>
+            <p>I ſhall preſuppoſe that they who ſhall read this, have already taken, or would be willing to take the pains of reading my Remarks and Annotations on St. <hi>John</hi>'s Re<g ref="char:EOLhyphen"/>velation, and what is writ in my firſt Letter to <hi>David Pina,</hi> con<g ref="char:EOLhyphen"/>cerning the true ſence of the Pro<g ref="char:EOLhyphen"/>phecies of <hi>Daniel,</hi> in the <hi>2d.</hi> and <hi>7th</hi> Chapters, ſo far as they are applicable to the Promiſe of the
+<pb facs="tcp:171602:5"/>
+Reign of <hi>God</hi> and of the <hi>Saints</hi> upon Earth.</p>
+            <p>I moreover entreat them to read with attention the ſaid <hi>2d.</hi> and <hi>7th</hi> Chapters of <hi>Daniel,</hi> the laſt verſe of the <hi>8th,</hi> all the <hi>9th,</hi> and the <hi>11</hi> laſt verſes of the <hi>16th,</hi> and the <hi>13th,</hi> and <hi>14th</hi> of the <hi>11th</hi> Chapter, and the <hi>16th</hi> verſe of the <hi>17th</hi> of the Revela<g ref="char:EOLhyphen"/>tions.</p>
+            <p>And then moſt maturely to conſider, whether the <hi>Heaven on a Fire</hi> does not evidently ſignify the juſt Anger of God, denoted in the Revelations made by our Sa<g ref="char:EOLhyphen"/>viour to St. <hi>John,</hi> by the Seven Angels which ſhould inflict the laſt Plagues, and of whom the three laſt (which the King's Dream levels at) are to be the moſt fa<g ref="char:EOLhyphen"/>tal; as is very clearly ſaid in the ſaid laſt verſe of the <hi>8th</hi> Chapter.</p>
+            <p>
+               <hi>The thick Smoak iſſuing from the Earth,</hi> is doubtleſs that which the Gulph of the Bot<g ref="char:EOLhyphen"/>tomleſs Pit vomits out of its Fla<g ref="char:EOLhyphen"/>ming Furnace, and which darkens the Sun, and produces the ſtrangely Monſtrous and moſt pernicious Lo<g ref="char:EOLhyphen"/>cuſts, or the moſt infamous and black Corrupters of <hi>Chriſtian</hi> Mo<g ref="char:EOLhyphen"/>rality, and of true Felicity; and the moſt dangerous Diſturbers of the Publick Peace that have been
+<pb n="9" facs="tcp:171602:5"/>
+in any time ſince there has been Men: And who, as my ſaid An<g ref="char:EOLhyphen"/>notations and Remarks do make appear, by Diabolical Artifices, and the inconceiveable Blindneſs of thoſe they have deluded, have occaſioned all the Wars and Inhu<g ref="char:EOLhyphen"/>manities that have afflicted <hi>Chri<g ref="char:EOLhyphen"/>ſtendom</hi> for above theſe <hi>160</hi> Years, through the mad Diſputes and Differences in Matters of Religion.</p>
+            <p>And ſo much the more Credence is to be given to this my Inter<g ref="char:EOLhyphen"/>pretation, for that, not only ſeve<g ref="char:EOLhyphen"/>ral of the <hi>Calviniſt</hi> Writers have taken the <hi>Jeſuits,</hi> and ſuch like Religious and Political Monks for the ſaid <hi>Locuſts:</hi> but, more e<g ref="char:EOLhyphen"/>ſpecially, becauſe that my ſaid Annotations have been communi<g ref="char:EOLhyphen"/>cated to thoſe they ſo grievouſly accuſe, without any one having un<g ref="char:EOLhyphen"/>dertaken to Refute me, among all the Prelates, Profeſſours, Doctors, and Preachers of the Three Sects now Ruling: Namely, of the <hi>Pa<g ref="char:EOLhyphen"/>pal, Lutheran,</hi> and <hi>Calvinian</hi> Hereſies, to whom this horrible Crime is more eſpecially imputed, than to all other Heretical Aſ<g ref="char:EOLhyphen"/>ſemblies that have ſwerv'd from the <g ref="char:V">Ʋ</g>nion, which is not to be found or procur'd, ſave by Preach<g ref="char:EOLhyphen"/>ing the Goſpel all alone without Explication and humane Doctrines,
+<pb n="10" facs="tcp:171602:6"/>
+as was done in the Primitive Church, and by taking care that Charity (which is the true Cha<g ref="char:EOLhyphen"/>racter of <hi>Chriſtianity</hi>) be <hi>Chri<g ref="char:EOLhyphen"/>ſtianly</hi> obſerved with all the other Duties impoſed upon us by the Precepts of the Goſpel, for the being Temporally and Eternally happy.</p>
+            <p>And as the ſaid Locuſts were changed into Froggs, in the <hi>Re<g ref="char:EOLhyphen"/>velations,</hi> to make up the Scene of the impure and diabolical Spirits that have excited the preſent Wars, or the <hi>War of that great Day of the Almighty God,</hi> as is ſeen in the 14th. and 15th. Verſes of the ſaid 16th. Chapter of the <hi>Re<g ref="char:EOLhyphen"/>velations.</hi> It is in no wiſe ſtrange, that thoſe ſame Children of Dark<g ref="char:EOLhyphen"/>neſs have appeared to the King under the Image of Darkneſs, that ſo their blackneſs might denote this Original; but more eſpecially, be<g ref="char:EOLhyphen"/>cauſe that the great Slaughter in the preſent Wars, is to be made according to the Prophecies, <hi>by Fire, and by Smoak, and by Sul<g ref="char:EOLhyphen"/>phur,</hi> and that the Smiths Trade is carried on by the Miniſtry of the Fire.</p>
+            <p>The General of this moſt nume<g ref="char:EOLhyphen"/>rous, black, and infernal Army which the King has ſeen, is evident<g ref="char:EOLhyphen"/>ly
+<pb n="11" facs="tcp:171602:6"/>
+the ſame, who in the 11th. verſe of the ſaid 9th. Chapter, is cal<g ref="char:EOLhyphen"/>led the <hi>King.</hi> The ſaid <hi>Locuſts</hi> and the <hi>Angel</hi> of the <hi>bottomleſs Pit,</hi> who in the <hi>Hebrew</hi> Tongue is called <hi>Abaddon,</hi> and in the <hi>Greek</hi> hath his Name <hi>Apollyon</hi> or <hi>De<g ref="char:EOLhyphen"/>ſtroyer.</hi>
+            </p>
+            <p>The ſtrange variety of Colours of his Horſe denotes, That theſe Calamities proceed from the Spirit of the Monks, and from that of falſe <hi>Chriſtians</hi> who reſemble them, herein repreſented by the <hi>Grey,</hi> and for one part by the Secular Spirit, which is the moſt ſhining, is denoted by the <hi>Green.</hi>
+            </p>
+            <p>The Divinity and capricious mixture of the Metals, does doubt<g ref="char:EOLhyphen"/>leſs ſignify, that this Viſion does refer to <hi>Nebuchadonoſor</hi>'s Statue; and tho we do not here find the Potters Clay, and that the Gold which made the Head of the ſaid Statue is here join'd to Iron, whereas the Iron was join'd to the Potters Clay in the Feet of the ſaid Statue: And further, that the Gold is here combined to the Iron in the Coat and not in the Feet.</p>
+            <p>Methinks that this tranſplacing is not without Myſtery, by reaſon that what was far off, or at the further end of the Body, or at the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Nebuchadonoſor</hi>'s time,
+<pb n="12" facs="tcp:171602:7"/>
+does now ſurround and wound us at preſent, as wou'd do a very hea<g ref="char:EOLhyphen"/>vy, rugged, and inſupportable Coat of Gold and Iron.</p>
+            <p>In all the reſt there is no nota<g ref="char:EOLhyphen"/>ble Diverſity, if the King ſaw Sil<g ref="char:EOLhyphen"/>ver inſtead of Lead, if the afore<g ref="char:EOLhyphen"/>ſaid Advice ſays true.</p>
+            <p>But this ſeems to me more eſpecially note-worthy, That in the Kings Viſion, the Gold which form'd the Head of the ſaid Statue of <hi>Nebuchadonoſor</hi> is mingled with Iron, or rather is join'd to the I<g ref="char:EOLhyphen"/>ron inſtead of Clay, not only becauſe that Gold can no more be confound<g ref="char:EOLhyphen"/>ed or incorporated with Iron than with Clay. But above all, becauſe the preſent Eccleſiaſtical State, and ſpecially in the Church of <hi>Rome,</hi> is become very rich, prin<g ref="char:EOLhyphen"/>cipally becauſe the diobolical Pride of the Biſhop of <hi>Rome,</hi> who has rais'd himſelf above all that is cal<g ref="char:EOLhyphen"/>led God, and is ſeated in the Temple of God as God, does very energically betoken the <hi>Aſſyrian</hi> Monarchy, which was the greateſt, the moſt pompous, and the moſt ſuperb of all.</p>
+            <p>Beſides, that the Image or Statue of <hi>Nebuchadonoſor</hi> which ſeems extreme high, fair and terrible in the Deſcription of the four Mo<g ref="char:EOLhyphen"/>narchies, ſignified the <hi>Mammon,</hi>
+               <pb n="13" facs="tcp:171602:7"/>
+or the World perverted, which wrongfully, ſeems to us ſo great, ſo fine, and in its turn ſo terrible in this ſhort, ſilly and wretched Life of worldly Men: And that the Gold is at the long run de<g ref="char:EOLhyphen"/>generated into Iron and Clay, gives to underſtand the deterioration or growing worſe of Ages, the Ages of the World, which the Chriſtian Religion, all divine, and all reaſon<g ref="char:EOLhyphen"/>able, and all beautifying, as it is, has not been able to hinder, by rea<g ref="char:EOLhyphen"/>ſon of the deceit and fraud of the Devil, and his Doctrine preach<g ref="char:EOLhyphen"/>ed among <hi>Chriſtians.</hi>
+            </p>
+            <p>I am not the firſt that has ſhewn, That Iron join'd with Clay to form a Member compos'd of thoſe two unſociable Materials, ſignifies, the diſcording Concord of the Secular and Eccleſiaſtical Powers, which compoſe one and the ſame Civil Society.</p>
+            <p>And methinks there is nothing that ought to appear more ſtrange, and ſerve more to confirm this Exalta<g ref="char:EOLhyphen"/>tion, than the incredible things that is found by obſerving, That in the time of <hi>Nebuchadnoſor,</hi> an <hi>Aſſy<g ref="char:EOLhyphen"/>rian</hi> Monarch could put all thoſe ſoothſayers to Death by one ſingle Command. And that the Biſhops of <hi>Rome</hi> in a Religion which teach<g ref="char:EOLhyphen"/>es the reſpecting and obeying of Soveraign and Secular Powers, have
+<pb n="14" facs="tcp:171602:8"/>
+been able to miſuſe Emperors, Kings, Princes and States, in ſuch man<g ref="char:EOLhyphen"/>ner as is well known.</p>
+            <p>The <hi>Wooden Sword</hi> muſt de<g ref="char:EOLhyphen"/>note, That the Eccleſiaſticks, who are the principal Actors in this Tragedy, have only a Staff of Command to put in action the Iron of thoſe that wear it.</p>
+            <p>But in all that the King has ſeen and heard, there is nothing more notable than the <hi>cry of the ſaid infernal General, that Men muſt fight or periſh.</hi> To expreſs that the three ruling Sects at this day do baniſh out of civil Society, &amp; very often perſecute, and horribly miſuſe them that will not ſide with them, and become as many <hi>Anti<g ref="char:EOLhyphen"/>chriſtians</hi> and Hereticks as they are, and partake at leaſt by ap<g ref="char:EOLhyphen"/>plauſe in the Tyrannies, Inhuma<g ref="char:EOLhyphen"/>nities, and Wars they ſet on foot and foment.</p>
+            <p>I have ſhewn in my Annotati<g ref="char:EOLhyphen"/>ons upon the <hi>Revelations,</hi> that the Calamities occaſioned by the fifth Angel are over, and that we live under the Plagues of the ſixth, of which the preſent War with the <hi>Turks</hi> and amongſt <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi>
+               <pb n="15" facs="tcp:171602:8"/>
+is the firſt part, and that they are to be followed or in<g ref="char:EOLhyphen"/>terrupted ſuddenly, in my Opini<g ref="char:EOLhyphen"/>on, by the Earthquake, whereof mention is made in the 13th. verſe of the 11th. Chapter of the <hi>Revelations;</hi> but the ſwallowing up of all the Multitude, ſeen by the King, is more terrible than in the ſaid 13th verſe.</p>
+            <p>But what is ſtill more remarka<g ref="char:EOLhyphen"/>ble than all that has been yet ſaid, is, that the King heard two la<g ref="char:EOLhyphen"/>mentable Cries, and immediately after ſaw the ſaid Earthquake, is, that We are ſtill to undergo part of the Calamities of the ſixth, and all the great Calamities of the ſe<g ref="char:EOLhyphen"/>venth, which are to come very ſuddenly.</p>
+            <p>The fair Foreſt afterwards ſeen by the King, ſeems to denote the Face of <hi>Chriſtendom</hi> after the ſaid Earthquake ſhall have ceaſed, in thoſe that ſhall ſurvive it; the Repentance whereof mention is made in the ſaid 13th. verſe of the ſaid 11th. Chapter. And me<g ref="char:EOLhyphen"/>thinks, that the Orders which his Majeſty has given for the filling the Wild-beaſts, give to under<g ref="char:EOLhyphen"/>ſtand the fulfilling of the Prophe<g ref="char:EOLhyphen"/>cy, which ſays, That the ten Kings or ſecular Powers, ſhall be at the long run undeceived, ſhall revenge themſelves for the deceit and delu<g ref="char:EOLhyphen"/>ſion
+<pb n="16" facs="tcp:171602:9"/>
+of the Infernal Doctors, who have ſo villaniouſly ſeduced them to the committing ſuch fatal Fol<g ref="char:EOLhyphen"/>lies through the zeal of a Religion, which is as contrary to all that is fooliſh, fatal, as it is the ſincere, good and charitable Doctrine of the Goſpel; The ſaid avenging Prophe<g ref="char:EOLhyphen"/>cy being deſcrib'd in the ſaid 16th. verſe of the ſaid Chapter, with theſe moſt memorable words, <hi>and the ten Horns which thou ſaw<g ref="char:EOLhyphen"/>eſt upon the Beaſt,</hi> namely the ten Kings before mentioned, <hi>they ſhall hate the Whore and make her deſolate and naked.</hi>
+            </p>
+            <p>Would to God that neither the Eccleſiaſticks nor the Seculars had bad the boldneſs to regulate Re<g ref="char:EOLhyphen"/>ligion, and that they had taken more care to obſerve its Precepts, that ſo we might not have had occaſion for ſuch lamentable Re<g ref="char:EOLhyphen"/>medies.</p>
+            <p>God grant Mercy to the King, and to all ſuch as invoak him in Spirit and Truth: This the Au<g ref="char:EOLhyphen"/>thor wiſhes with all his Soul.</p>
+            <closer>
+               <dateline>
+                  <hi>Hague,</hi> 
+                  <date>
+                     <hi>Nov. 19. 1689.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div xml:lang="fre" type="version">
+            <pb n="5" facs="tcp:171602:3"/>
+            <head>EXPLICATION D<g ref="char:V">Ʋ</g> 
+               <hi>SONGE</hi> Que le Roy de France a eu en ſon Caroſſe allant à Marly.</head>
+            <p>DE Paris le 11. Novem<g ref="char:EOLhyphen"/>bre: Le Roy étant à Marli en Caroſſe ſon<g ref="char:EOLhyphen"/>gea qu'il voyoit le Ciel en feu; &amp; qu'une fumée trés-épaiſſe, ſortoit de la Terre dont il forma une trés-nom<g ref="char:EOLhyphen"/>breuſe armée d'hommes ſembla<g ref="char:EOLhyphen"/>bles à des forgerons.</p>
+            <p>Et que le Chef qui les com<g ref="char:EOLhyphen"/>mandoit étoit monté ſur un che<g ref="char:EOLhyphen"/>val moitié gris, moitié vert, &amp; qu'il étoit vêtu d'une caſaque moitié or, moitié fer, portant une cuiraſſe de plomb, &amp; des bottes d'airain, &amp; ayant une épée de bois, il ſe mit à crier, il faut ſe battre preſentement, car l'heure eſt venuë, que ceux qui ne ſe battront pas periront.</p>
+            <p>Que le Roy entendit enſuite deux lamentables cris, &amp; qu'il
+<pb n="6" facs="tcp:171602:4"/>
+vit aprés que la terre trembla, &amp; que toute cette multitude de forgerons fut engloutie.</p>
+            <p>Que peu de temps aprés il parut une belle foreſt pleine de cerfs &amp; d'autres beſtes de chaſſe, &amp; qu'il cria aux Chaſſeurs qui l'entouroient, tuë, tuë, car la chaſſe eſt bonne.</p>
+            <p>Il s'éveilla là-deſſus, &amp; conta ſon ſonge à toute la Cour, &amp; ajoûta qu'il donneroit vint mille Louïs d'or pour ſavoir ſon in<g ref="char:EOLhyphen"/>terpretation, il a paru enſuite tout reveur.</p>
+            <p>Si l'avis de ce Gazettier eſt veritable, comme il y a quelque apparence: il me paroît d'abord trés-remarquable, que le Roy de France, que l'on peut conſiderer comme le Nebucadonoſor de nô<g ref="char:EOLhyphen"/>tre temps dans la Chrêtienté, a eu un ſonge ou plûtôt une viſion en ſongeant, qu'il a pris ſi fort à coeur, que d'avoir témoigné de vouloir acheter ſi cherement ſon interpretation; &amp; que le grand Monarque Aſſyrien ait eu le même empreſſement, mais avec d'autant plus de paſſion, qu'il avoit perdu le ſouvenir de ſa viſion, &amp; qu'il avoit beſoin d'un nouvelle manifeſtation, qui devoit venir de Dieu, pour le
+<pb facs="tcp:171602:4"/>
+ſavoir, au lieu que pour ſatis<g ref="char:EOLhyphen"/>faire à ſa Majeſté il ne faut qu'un homme qui ſache l'inter<g ref="char:EOLhyphen"/>pretation des Propheties auſ<g ref="char:EOLhyphen"/>quelles ſa viſion ſe rapporte.</p>
+            <p>Je crois que le grand &amp; bon Dieu m'a fait cette grace, &amp; que je ne m'éloignera pas de la verité, en diſant, que ledit ſonge du Roy eſt venu du Ciel, pour ſaire ſavoir à ſa Majeſté que l'heure derniere eſt venuë de l'accompliſſement des Prophe<g ref="char:EOLhyphen"/>ties, fondées ſur l'apparition de la ſtatuë de Nebucadonoſor &amp; de la ſeconde venuë de nôtre Seigneur Jeſus-Chriſt nôtre Sau<g ref="char:EOLhyphen"/>veur, &amp; de cette pierre faite ſans main, qui briſera &amp; abo<g ref="char:EOLhyphen"/>lira tous les autres Royaumes, en établiſſant celui de Dieu, &amp; des Saints ſur la terre, éclatera bien-tôt, pour donner la finale concluſion à toutes les Prophe<g ref="char:EOLhyphen"/>ties.</p>
+            <p>Je préſuppoſera y que ceux qui liront ceci ont déja pris, ou vou<g ref="char:EOLhyphen"/>dront bien prendre la peine de lire mes remarques, &amp; mes annotations ſur l'Apocalypſe, &amp; ce que l'on trouve dans ma pre<g ref="char:EOLhyphen"/>miere lettre à David Pina, tou<g ref="char:EOLhyphen"/>chant le veritable ſens des Pro<g ref="char:EOLhyphen"/>pheties de Daniel au Chapitre 2. &amp; 7. entant qu'elles ſont appli<g ref="char:EOLhyphen"/>cables à la promeſſe du Regne
+<pb facs="tcp:171602:5"/>
+de Dieu &amp; des Saints ſur la terre.</p>
+            <p>Je les prie de plus, de lire avec attention leſdits 2. &amp; 7. Chapi<g ref="char:EOLhyphen"/>tres de Daniel, le dernier verſet du VIII. tout le 9. &amp; les 11. derniers verſets du XVI. &amp; les 13. &amp; 14. du Chapitre XI. &amp; le 16. verſ. du XVII. de l'Apo<g ref="char:EOLhyphen"/>calypſe.</p>
+            <p>Et de conſiderer enſuite trés<g ref="char:EOLhyphen"/>meurement, ſi <hi>le Ciel en feu</hi> ne ſi<g ref="char:EOLhyphen"/>gnifie pas evidemment la juſte colere de Dieu, dénotée, dans les revelations faites par nôtre Sauveur à St. Jean, par les 7. Anges qui infligeroient les der<g ref="char:EOLhyphen"/>nieres playes, &amp; dont les 3. der<g ref="char:EOLhyphen"/>niers, (auſquels le ſonge du Roy viſe) doivent eſtre les plus funeſtes, comme eſt dit trés<g ref="char:EOLhyphen"/>clairement audit dernier verſet du 8. Chap.</p>
+            <p>
+               <hi>La fumée trés-épaiſſe ſortie de la terre,</hi> eſt ſans doute celle que le Puis de l'Abyſme vomit de ſa fournaiſe ardente, &amp; qui obſcur<g ref="char:EOLhyphen"/>cit le Soleil, &amp; produiſit les étrangemens monſtreuſes, &amp; en<g ref="char:EOLhyphen"/>tierement pernicieuſes Sauterel<g ref="char:EOLhyphen"/>les, ou les plus infames &amp; noirs Corrupteurs de la morale Chiê<g ref="char:EOLhyphen"/>tienne, &amp; de la vraye felicité, &amp; les plus dangereux Perturbateurs de la paix publique qui ayent été
+<pb n="9" facs="tcp:171602:5"/>
+en aucun tems, depuis qu'il y a des hommes: Et qui, comme meſdites annotations &amp; remar<g ref="char:EOLhyphen"/>ques, le font voir par des artifi<g ref="char:EOLhyphen"/>ces diaboliques, &amp; par l'incon<g ref="char:EOLhyphen"/>cevable aveuglement de ceux qu'ils ont trompés, ont cauſé toutes les guerres &amp; inhumani<g ref="char:EOLhyphen"/>tez qui ont affligé la Chrêtienté depuis plus de 160<g ref="char:punc">▪</g> ans, par des differens inſenſés ſur la Religion.</p>
+            <p>Et l'on doit adjoûter d'autant plus de foy à cette mienne inter<g ref="char:EOLhyphen"/>pretation, non-ſeulement, par<g ref="char:EOLhyphen"/>ce que pluſieurs d'entre les Ecri<g ref="char:EOLhyphen"/>vains Calviniſtes ont pris les Je<g ref="char:EOLhyphen"/>ſuites, &amp; ſemblables Religieux &amp; Moines politiques, pour leſdi<g ref="char:EOLhyphen"/>tes Sauterelles: mais ſur tout parce que meſdites annotations ont été communiquês à ceux qu'elles accuſent ſi grievement, ſans que perſonne ait entrepris de me refuter d'entre tous les Prelats, Profeſſeurs, Docteurs, &amp; Predicateurs des trois Sectes au<g ref="char:EOLhyphen"/>jourdhui dominantes: à ſavoir de l'hereſie Papale. Lutherien<g ref="char:EOLhyphen"/>ne, &amp; Calvinienne, auſquelles cet horrible crime eſt plus ſpeciale<g ref="char:EOLhyphen"/>ment imputé qu'à toutes les au<g ref="char:EOLhyphen"/>tres aſſemblées heretiques, qui ſe ſont éloignées de l'union, que l'on ne peut trouver ni conſerver qu'en faiſant prêcher l'Evangile
+<pb n="10" facs="tcp:171602:6"/>
+tout ſeul ſans explication, &amp; do<g ref="char:EOLhyphen"/>ctrines humaines, comme on fai<g ref="char:EOLhyphen"/>ſoit dans la Primitive Egliſe, &amp; en prennant ſoin que la charité, qui eſt le vray charactere du Chriſtianiſme, fût Chrêtienne<g ref="char:EOLhyphen"/>ment obſervée avec tous les au<g ref="char:EOLhyphen"/>tres devoirs que les preceptes de l'Evangile nous impoſent, pour être temporellement &amp; eternel<g ref="char:EOLhyphen"/>lement heureux.</p>
+            <p>Et comme les ſudites Sauterel<g ref="char:EOLhyphen"/>les ont été changées en Grenoüil<g ref="char:EOLhyphen"/>les dans l'Apocalypſe, pour faire la ſcene des Eſprits impurs &amp; diaboliques, qui ont excité les preſentes guerres, ou <hi>la Guerre de ce grand jour-là du Dieu Tout<g ref="char:EOLhyphen"/>puiſſant,</hi> comme cela ſe voit <hi>au</hi> 13 <hi>&amp;</hi> 15 <hi>verſet dudit XVI. Chap. de l'Apoc.</hi> Il n'eſt nullement é<g ref="char:EOLhyphen"/>trange que ces mêmes Enfans des tenebres, ayent paru au Roy ſous l'image des Forgerons, afin que leur noirceur marquât leur origi<g ref="char:EOLhyphen"/>ne; mais ſur tout parce que la grande tuerie dans les guerres d'aujourdhui ſe doit faire ſelon les Propheties <hi>Par le feu, &amp; par la fumée, &amp; par le ſouphre,</hi> &amp; que la forgerie ſe fait par le mini<g ref="char:EOLhyphen"/>ſtére du feu.</p>
+            <p>Le General de cette trés-nom<g ref="char:EOLhyphen"/>breuſe armée noire, infernale que le Roy a vû, eſt évidemment le même quidans l'XI. <hi>v. dudit</hi> IX.
+<pb n="11" facs="tcp:171602:6"/>
+               <hi>Chap.</hi> eſt nommé le Roy. Leſdites Sauterelles &amp; L'ANGE DE L'ABIME, <hi>qui a nom en He<g ref="char:EOLhyphen"/>breu Abaddon, &amp; duquel le nom eſt en Grec Appollyon</hi> ou deſtru<g ref="char:EOLhyphen"/>cteur.</p>
+            <p>L'Etrange bigarrure des cou<g ref="char:EOLhyphen"/>leurs de ſon cheval marque que ces malheurs viennent de l'Eſprit des Moines, &amp; de celuy des faux Chrêtiens qui leur reſſemblent, marqué ici par le <hi>Gris,</hi> &amp; pour une partie par l'eſprit ſeculier, qui comme plus brillant, eſt deno<g ref="char:EOLhyphen"/>té par le <hi>Vert.</hi>
+            </p>
+            <p>La diverſité, &amp; le bizarre mé<g ref="char:EOLhyphen"/>lange des metaux ſignifient indu<g ref="char:EOLhyphen"/>bitablement que cette viſion ſe rapporte à la ſtatuë de Nebuca<g ref="char:EOLhyphen"/>donoſor; &amp; quoy que l'on ne trouve pas ici l'argille, &amp; que l'or qui faiſoit la tête de ladite ſta<g ref="char:EOLhyphen"/>tuë eſt joint ici au fer, au lieu que le fer étoit à l'Argille aux pieds: &amp; de plus que l'or eſt ici combiné au fer dans la caſaque, &amp; non aux pieds.</p>
+            <p>Il me ſemble que ce tranſplace<g ref="char:EOLhyphen"/>ment n'eſt point ſans myſtere à cauſe que ce qui étoit loin, &amp; dans l'extremité du corps, ou aux pieds tu temps de Nebucadono<g ref="char:EOLhyphen"/>ſor,
+<pb n="12" facs="tcp:171602:7"/>
+nous environne &amp; nousbleſſe preſentement comme feroit une tres peſante, &amp; tres dure, &amp; inſup<g ref="char:EOLhyphen"/>portable caſaque d'or &amp; de fer.</p>
+            <p>Dans tout le reſte il n'y a point de diverſité notable, ſi le Roi a veu de l'argent au lieu du plomb, ſi le ſudit avis dit vray.</p>
+            <p>Mais il me paroît ſur tout fort notable que dans la viſion du Roy, l'or qui formoit la tête de ladite ſtatuë de Nebucadonoſor eſt mêlé avec le fer, ou plûtôt ſe joint au fer au lieu d'argille, non ſeulement parce que l'or ne ſe peut point confondre ni incor<g ref="char:EOLhyphen"/>porer avec le fer non plus que l'argille. Mais ſur tout parce que l'Etat Eccleſiaſtique d'aujour<g ref="char:EOLhyphen"/>d'hui, &amp; ſpecialement dans l'E<g ref="char:EOLhyphen"/>gliſe Romaine, eſt devenu fort riche, principalement par ce que le Diabolique orgueil de l'E<g ref="char:EOLhyphen"/>véque de Rome, qui s'eſt élevé deſſus tout ce qui s'appelle Dieu, &amp; eſt aſſis dans le Temple de Dieu comme Dieu, marque fort energiquement la Monarchie Aſſyrienne la plus grande, &amp; la plus pompeuſe &amp; la plus ſuperbe de toutes.</p>
+            <p>Outre que la ſtatuë de Nebu<g ref="char:EOLhyphen"/>cadonoſor qui parût extréme<g ref="char:EOLhyphen"/>ment haute, belle, &amp; terrible dans la deſcription des quatre Monarchies, a ſignifié le Mam<g ref="char:EOLhyphen"/>mon
+<pb n="13" facs="tcp:171602:7"/>
+ou le monde perverti, qui nous paroît a tort ſi grand, &amp; ſi beau, &amp; a ſon tour ſi terrible dans cette courte, ſotte, &amp; miſe<g ref="char:EOLhyphen"/>rable vie des hommes mondains: &amp; que l'Or eſt degeneré à la fin en fer &amp; argille, fait enten<g ref="char:EOLhyphen"/>dre la deterioration des âges du monde, que la Religion Chrêti<g ref="char:EOLhyphen"/>enne toute divine, &amp; toute rai<g ref="char:EOLhyphen"/>ſonnable, &amp; toute beatifiante qu'elle eſt, n'a pas pû empêcher, a cauſe de la fraude du Diable, &amp; de ſa doctrine prêchée parmi les Chrêtiens.</p>
+            <p>Je ne ſuis pas le premier, qui a fait voir, que le fer joint à l'ar<g ref="char:EOLhyphen"/>gille pour former un membre compoſé de ces deux materiaux inſociables, ſignifie la concorde diſcordante de la puiſſance Secu<g ref="char:EOLhyphen"/>liere, &amp; Eccleſiaſtique qui for<g ref="char:EOLhyphen"/>me une même ſocieté civile.</p>
+            <p>Et il me ſemble, qu'il n'y a rien qui doive paroître plus é<g ref="char:EOLhyphen"/>trange, &amp; qui ſerve plus à con<g ref="char:EOLhyphen"/>firmer cette exaltation, que l'in<g ref="char:EOLhyphen"/>croyable changement que l'on trouve en obſervant, que du temps de Nebucadonoſor un monarque d'Aſſyrie pouvoit faire tuer par un ſeul commen<g ref="char:EOLhyphen"/>dement tous ces Devins. Et que les Evêques de Rome, dans une Religion qui enſeigne de re<g ref="char:EOLhyphen"/>ſpecter
+<pb n="14" facs="tcp:171602:8"/>
+&amp; d'obeir aux Puiſſances ſouveraines, &amp; ſeculieres ont pû mal-traitter les plus grands Em<g ref="char:EOLhyphen"/>pereurs, Rois, Princes, &amp; Etats de la maniere qu'il eſt connu.</p>
+            <p>
+               <hi>L'Epée de bois,</hi> doit denoter que les Eccleſiaſtiques, qui ſont les principaux acteurs en cette tragoedie, n'ont qu'un bâton de commandement de bois pour faire agir le fer de ceux qui le portent.</p>
+            <p>Mais dans tout ce que le Roi a veu; &amp; entendu il n'y a rien de plus notable que le <hi>cri dudit General infernal, il faut ſe battre, ou perir.</hi> Pour expri<g ref="char:EOLhyphen"/>mer que les trois Sectes domi<g ref="char:EOLhyphen"/>nantes d'aujourdhui banniſſent de la ſocieté civile, &amp; bien ſou<g ref="char:EOLhyphen"/>vent perſecutent, &amp; maltrait<g ref="char:EOLhyphen"/>tent horriblement ceux qui ne veulent par prendre party, &amp; devenir autant Antichrêtiens &amp; heretiques qu'ils ſont, &amp; parti<g ref="char:EOLhyphen"/>ciper au moins par l'applau<g ref="char:EOLhyphen"/>diſſement dans les tyrannies, inhumanitez, &amp; guerres qu'elles exercent.</p>
+            <p>J'ay montré dans mes anno<g ref="char:EOLhyphen"/>tations ſur l'Apocalypſe que les malheurs cauſés par le 5 Ange ſont paſſez, &amp; que nous vivons ſous les playes du 6, dont la preſente guerre avec les Turcs, &amp; entre les Chrêtiens eſt la pre<g ref="char:EOLhyphen"/>miere
+<pb n="15" facs="tcp:171602:8"/>
+partie, &amp; qu'elles doivent être ſuivies ou interrompues bientôt, ſelon mon opinion, par le tremblement de terre dont il eſt parlé au 13. <hi>verſet du XI. Chapitre de l'Apoc.</hi> mais l'En<g ref="char:EOLhyphen"/>glouriſſement de toute la multi<g ref="char:EOLhyphen"/>tude que le Roy a veu, ſe fait plus terrible que le dit 13 verſet.</p>
+            <p>Mais ce qui eſt de plus nota<g ref="char:EOLhyphen"/>ble, que tout ce qui vient d'être dit, c'eſt que le Roi entendit deux lamentables cris, &amp; vit incontinent aprés le dit trem<g ref="char:EOLhyphen"/>blement, eſt que l'on ait encore a eſſuyer une partie des mal<g ref="char:EOLhyphen"/>heurs du ſeptiéme Ange qui ſeront fort ſubits.</p>
+            <p>La belle forêt, que le Roy vit en ſuite, ſemble marquer la face de la Chrêtienté aprés que le dit tremblement de terre aura cauſé, dans ceux qui la ſurvivront; la repentance de laquelle il eſt parlé <hi>au dit</hi> 13. <hi>vers,</hi> du dit XI. Chap. Et il me ſemble que les ordres que Sa Majeſté a donné pour tuer des bêtes feroces, font entendre l'accompliſſement de la prophe<g ref="char:EOLhyphen"/>tie qui dit que les dix Rois ou les Puiſſances ſeculieres ſeront à la fin détrompez, &amp; ſe ven<g ref="char:EOLhyphen"/>geront de la fourberie des
+<pb n="16" facs="tcp:171602:9"/>
+docteurs infernaux qui les ont ſi vilainement ſeduits pour faire des ſortiſes ſi funeſtes par le zele d'une Religion qui eſt ſi contraire à tout ce qui eſt ſot, &amp; funeſte, comme c'eſt la ſin<g ref="char:EOLhyphen"/>cere, bonne, &amp; charitable doctrine de l'Evangile, cette Prophetie vengereſſe étant d'écritte au dit 16. verſet avec ces paroles trés-memorables, <hi>&amp; les dix cornes que tu as veuës à la Beſte;</hi> à ſavoir les dix Rois, dont il avoit parlé auparavant, <hi>ſont ceux qui hairont la Paillarde &amp; la rendrout deſolée &amp; nuë.</hi>
+            </p>
+            <p>Pleût à Dieu que ni les Ec<g ref="char:EOLhyphen"/>cleſiaſtiques ni les Seculiers n'euſſent pas eul'audace de regler la Religion, &amp; qu'ils euſſent pris plus de ſoin a en obſerver les preceptes, &amp; que l'on n'eut pas eu beſoin de ſi lamentables remedes.</p>
+            <p>Dieu faſſe miſericorde au Roy, &amp; à tous ceux qui l'in<g ref="char:EOLhyphen"/>voquent en eſprit &amp; verite; c'eſt ce qu'il ſouhaitte de toute ſon Ame.</p>
+            <closer>
+               <dateline>
+                  <hi>A la Haye ce</hi> 
+                  <date>19. <hi>Nov.</hi> 1689.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
